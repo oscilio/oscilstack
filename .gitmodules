@@ -1,0 +1,6 @@
+[submodule "oscil-api"]
+	path = oscil-api
+	url = git@github.com:oscilio/oscil-api
+[submodule "oscil-ui"]
+	path = oscil-ui
+	url = git@github.com:oscilio/oscil-ui
